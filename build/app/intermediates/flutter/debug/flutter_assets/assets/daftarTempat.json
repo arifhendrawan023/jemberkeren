@@ -1,0 +1,32 @@
+{
+    "tempat": [
+        {
+            "id": "1",
+            "jenis": "Wisata Budaya",
+            "nama": "Museum Tembakau",
+            "alamat": "Jl. Kalimantan No. 1, Jember",
+            "deskripsi": "Museum tembakau adalah salah satu wujud identitas Jember sebagai kota tembakau. Pengunjung bisa melihat berbagai literatur tembakau, miniatur gardu atak (tempat pengeringan tembakau), serta display daun tembakau dari berbagai jenis dan kualitas. Di museum tembakau ini juga bisa melihat tayangan diversifikasi produk tembakau yang belum banyak diketahui masyarakat luas. "
+        },
+        {
+            "id": "2",
+            "jenis": "Wisata Budaya",
+            "nama": "Museum Tembakau",
+            "alamat": "Jl. Kalimantan No. 1, Jember",
+            "deskripsi": "Museum tembakau adalah salah satu wujud identitas Jember sebagai kota tembakau. Pengunjung bisa melihat berbagai literatur tembakau, miniatur gardu atak (tempat pengeringan tembakau), serta display daun tembakau dari berbagai jenis dan kualitas. Di museum tembakau ini juga bisa melihat tayangan diversifikasi produk tembakau yang belum banyak diketahui masyarakat luas. "
+        },
+        {
+            "id": "3",
+            "jenis": "Wisata Budaya",
+            "nama": "Museum Tembakau",
+            "alamat": "Jl. Kalimantan No. 1, Jember",
+            "deskripsi": "Museum tembakau adalah salah satu wujud identitas Jember sebagai kota tembakau. Pengunjung bisa melihat berbagai literatur tembakau, miniatur gardu atak (tempat pengeringan tembakau), serta display daun tembakau dari berbagai jenis dan kualitas. Di museum tembakau ini juga bisa melihat tayangan diversifikasi produk tembakau yang belum banyak diketahui masyarakat luas. "
+        },
+        {
+            "id": "4",
+            "jenis": "Wisata Budaya",
+            "nama": "Museum Tembakau",
+            "alamat": "Jl. Kalimantan No. 1, Jember",
+            "deskripsi": "Museum tembakau adalah salah satu wujud identitas Jember sebagai kota tembakau. Pengunjung bisa melihat berbagai literatur tembakau, miniatur gardu atak (tempat pengeringan tembakau), serta display daun tembakau dari berbagai jenis dan kualitas. Di museum tembakau ini juga bisa melihat tayangan diversifikasi produk tembakau yang belum banyak diketahui masyarakat luas. "
+        }
+    ]
+}

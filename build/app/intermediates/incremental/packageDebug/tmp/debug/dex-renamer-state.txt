@@ -1,0 +1,4 @@
+#Sun May 21 06:07:18 ICT 2023
+base.0=C\:\\Users\\ahpro\\Documents\\Kuliah\\Mobile\\PROJECT\\Project_Akhir\\jemberkeren\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
